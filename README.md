@@ -1,6 +1,6 @@
 # Python for Biology: A Beginner's Guide
 
-This is a basic Python book created for undergraduate and postgraduate students from biology and biomedical sciences backgrounds. The book is designed to introduce Python programming with biological examples, making it easier for life science learners to start coding.
+If you have landed on this page, it's for sure that you are interested in learning Python, one of the easiest and most popular programming languages of today's time. Before I mention what I am offering through this book, I would like to state that this is not a detailed reference book for learning Python. Rather, the objective of this book was to give a one-point reference to start Python programming as a beginner. It’s not a very lengthy or elaborate book. It’s a fast, quick Python learning experience for those who have no experience in the computational or programming area. I have tried to target those learners who are from other fields of study, especially from a biology background. As a learner, I experienced that books available in the market are not simple enough for a beginner; they do require some background knowledge in such area. The technical language, terms, and content become too scary for such learners. So, my focus is to train such a cohort and make them confident enough to go ahead and learn more in programming.
 
 ## About the Book
 
