@@ -1679,3 +1679,12 @@ dialog :link {
     display: none;
   }
 }
+.textLayer {
+  user-select: none !important;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+::selection {
+  background: transparent;
+}
